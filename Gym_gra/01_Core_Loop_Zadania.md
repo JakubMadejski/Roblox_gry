@@ -4,6 +4,7 @@
 - [ ] 1.1 Zainstalowanie modułu do zapisu danych (np. ProfileService).
 - [ ] 1.2 Zaprojektowanie struktury tabeli gracza:
   - [ ] `Energy` (Zmienna typu liczba, limitowana 0-100).
+  - [ ] `Fatigue` (Zmęczenie, liczba 0-100).
   - [ ] `Muscle` (Liczba, reprezentuje ogólną masę).
   - [ ] `FatPercent` (Liczba 0-100, reprezentuje %).
   - [ ] `Coins` (Waluta).
@@ -19,6 +20,8 @@
 - [ ] 3.1 Pasek Energii (Energy Bar):
   - [ ] Stworzenie UI (ScreenGui -> Frame -> Bar).
   - [ ] LocalScript aktualizujący długość paska na podstawie zmiany zmiennej `Energy`.
+- [ ] 3.1a Pasek Zmęczenia (Fatigue Bar):
+  - [ ] UI paska zmęczenia (np. pod energią), który wypełnia się przy ćwiczeniach i pulsuje na czerwono ostrzegając gracza blisko 100%.
 - [ ] 3.2 Wskaźnik Tkanki Tłuszczowej i Mięśni:
   - [ ] Dodanie tekstu wyświetlającego dokładny `% Fat`.
 

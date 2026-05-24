@@ -9,9 +9,10 @@ Gracz musi zachować idealny balans pomiędzy budowaniem masy mięśniowej a red
 
 **Główna Pętla Rozgrywki:**
 1. 🍔 **Jedzenie:** Spożywanie posiłków (dostarcza *Energię* + *Tłuszcz*).
-2. 🦾 **Trening:** Wykorzystanie energii na *Trening Siłowy* (Mięśnie) lub *Cardio* (Spalanie Tłuszczu).
-3. 🏆 **Zawody:** Prezentacja sylwetki na scenie dla Monet i Sławy.
-4. 💸 **Rozwój:** Ulepszanie Trenerów i resetowanie postępu (*Rebirth*).
+2. 🛏️ **Regeneracja:** Sen i odpoczynek, aby obniżyć zmęczenie organizmu.
+3. 🦾 **Trening:** Wykorzystanie energii na *Trening Siłowy* (Mięśnie) lub *Cardio* (Spalanie Tłuszczu).
+4. 🏆 **Zawody:** Prezentacja sylwetki na scenie dla Monet i Sławy.
+5. 💸 **Rozwój:** Ulepszanie Trenerów i resetowanie postępu (*Rebirth*).
 
 ---
 
@@ -21,6 +22,13 @@ Gracz musi zachować idealny balans pomiędzy budowaniem masy mięśniowej a red
 - **Wymóg Energii:** Trening zawsze wymaga energii pozyskiwanej z jedzenia.
 - **Junk Food:** Tanie jedzenie (np. burgery) błyskawicznie ładuje energię, ale podnosi wskaźnik **Tkanki Tłuszczowej (Fat %)**.
 - **Efekty Wizualne:** Wysoki *Fat %* sprawia, że postać staje się okrągła, ukrywając definicję mięśni i obniżając szanse na wygraną w zawodach.
+- **Deficyt Kaloryczny i Cykle:** Aby schudnąć, jesz mniej (redukcja), ale masz wtedy dramatycznie mało energii, przez co nie zrobisz ciężkiego treningu siłowego. Gra wymusza fazy "Robienia Masy" (dużo jedzenia, ciężkie ciężary) i "Redukcji" (mało kalorii, głównie cardio i lekki trening).
+ সিলেটের**Energetyki i Przedtreningówki (Suple):** Szybkie źródła czystej energii (bez przyrostu tłuszczu). Przedtreningówka dodatkowo nakłada na gracza czasowy "buff", który drastycznie spowalnia przyrost Zmęczenia, pozwalając na morderczy trening podczas redukcji.
+
+### 🛏️ Odpoczynek i Zmęczenie
+- **Wskaźnik Zmęczenia (Fatigue):** Każdy trening nie tylko spala energię, ale też drastycznie podnosi wskaźnik zmęczenia fizycznego.
+- **Sen i Relaks:** Gdy zmęczenie osiągnie 100%, postać nie może ćwiczyć i ledwo chodzi. Należy udać się do łóżka (dom/hotel) na sen. 
+- **Konsekwencje braku snu:** Trening przy wysokim zmęczeniu daje mniej punktów Mięśni, zmuszając do regularnego odpoczywania.
 
 ### 🏋️ Rodzaje Treningu
 - **Siłowy (Hantle, Sztangi):** Buduje masę mięśniową, ale zużywa ogromne ilości energii.
